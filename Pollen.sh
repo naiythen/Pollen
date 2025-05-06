@@ -100,6 +100,7 @@ echo '{
   "URLBlocklist": [],
   "AllowDeletingBrowserHistory": true,
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
+  "SecondaryGoogleAccountSigninAllowed": "true",
   "DeveloperToolsAvailability": 1,
   "DeviceUserAllowlist": ""
 }' > /tmp/overlay/etc/opt/chrome/policies/managed/policy.json
