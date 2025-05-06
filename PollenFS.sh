@@ -22,7 +22,11 @@ mkdir -p /etc/opt/chrome/policies/managed
 echo '{
   "DeviceAllowNewUsers": "true",
   "DeviceBlockDevmode": "false",
+  "ProxySettings": "system",
   "BrowserGuestModeEnabled": "true",
+  "ForceGoogleSafeSearch": "false",
+  "DeveloperToolsAvailability": 1,
+  "SystemFeaturesDisableList": [],
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
   "ExtensionInstallForcelist": [
