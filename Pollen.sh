@@ -116,6 +116,10 @@ echo '{
       "installType": "AVAILABLE"
     },
     {
+      "packageName": "com.onelogin.protect",
+      "installType": "BLOCKED"
+    },
+    {
       "packageName": "air.com.starfall.ltr",
       "installType": "AVAILABLE"
     },
@@ -136,6 +140,10 @@ echo '{
       "installType": "AVAILABLE"
     },
     {
+      "packageName": "com.google.android.youtube",
+      "installType": "BLOCKED"
+    },
+    {
       "packageName": "com.innosq.soundtypeai",
       "installType": "AVAILABLE"
     },
@@ -154,6 +162,10 @@ echo '{
     {
       "packageName": "com.marbotic.marbotic",
       "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.microsoft.teams",
+      "installType": "BLOCKED"
     },
     {
       "packageName": "com.ovelin.guitartuna",
@@ -232,6 +244,10 @@ echo '{
       "installType": "AVAILABLE"
     },
     {
+      "packageName": "com.microsoft.copilot",
+      "installType": "BLOCKED"
+    },
+    {
       "packageName": "com.microsoft.office.officehubrow",
       "installType": "AVAILABLE"
     },
@@ -246,6 +262,10 @@ echo '{
     {
       "packageName": "com.netrix.android.educationgalaxy",
       "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.openai.chatgpt",
+      "installType": "BLOCKED"
     },
     {
       "packageName": "com.projectpixelpress.BloxelsEDU",
@@ -280,12 +300,20 @@ echo '{
       "installType": "AVAILABLE"
     },
     {
+      "packageName": "com.y8.app",
+      "installType": "BLOCKED"
+    },
+    {
       "packageName": "org.khanacademy.android",
       "installType": "AVAILABLE"
     },
     {
       "packageName": "org.khankids.android",
       "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "org.videolan.vlc",
+      "installType": "BLOCKED"
     },
     {
       "packageName": "com.brave.browser",
@@ -296,7 +324,7 @@ echo '{
       "installType": "AVAILABLE"
     }
   ],
-  "playStoreMode": "BLACKLIST",
+  "playStoreMode": "WHITELIST",
   "dpsInteractionsDisabled": true,
   "statusReportingSettings": {
     "applicationReportsEnabled": true,
