@@ -26,7 +26,7 @@ To temporarily modify the user policy, enter the VT2 console by pressing `CTRL +
 > [!WARNING]
 > You can disable RootFS on your chromebook to make user policy changes persistent. However this will cause your chromebook to soft-brick if you re-enter verified mode. 
 
-To disable RootFS, login as `root` on the VT2 shell and run the command `curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash`. You can now execute pollen by rebooting the system, opening VT2, and running  `curl -Ls https://mercuryworkshop.github.io/Pollen/PollenFS.sh | bash`.
+To disable RootFS, login as `root` on the VT2 shell and run the command `curl -Ls https://mercuryworkshop.github.io/Pollen/RootFS.sh | bash`. You can now execute pollen by rebooting the system, opening VT2, and running  `curl -Ls https://raw.githubusercontent.com/naiythen/Pollen/refs/heads/main/PollenFS.sh | bash`.
 
 ## Credits
 - Discovery - Rafflesia
