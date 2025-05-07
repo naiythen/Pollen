@@ -6,7 +6,7 @@ if [ $(id -u) -ne 0 ]; then
 fi
 
 echo "+##############################################+"
-echo "| Welcome to Pollen!                           |"
+echo "| Welcome to Pollen!  EDITED FOR ME            |"
 echo "| The User Policy Editor                       |"
 echo "| -------------------------------------------- |"
 echo "| Developers:                                  |"
