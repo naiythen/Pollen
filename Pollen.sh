@@ -109,7 +109,201 @@ echo '{
   "ReportDeviceVersionInfo": "false",
   "ReportDeviceVpdInfo": "false",
   "URLBlocklist": [],
-  "ArcPolicy": {},
+  "ArcPolicy": {
+  "applications": [
+    {
+      "packageName": "org.learningally.LinkMobile",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "air.com.starfall.ltr",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "air.com.starfall.more",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.cateater.stopmotionstudio",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.duckduckmoosedesign.cpkids",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.gamestar.perfectpiano",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.innosq.soundtypeai",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.lego.education.codingexpress",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.lego.education.spike",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.lego.education.wedo",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.marbotic.marbotic",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.ovelin.guitartuna",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.starfall.StarfallABCs",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "us.zoom.videomeetings",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.Transcendent.network",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.adobe.creativeapps.sketch",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.adobe.reader",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.amazon.kindle",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.canva.editor",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.cricut.designspace",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.epson.epsonsmart",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.explaineverything.explaineverything",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.google.android.apps.authenticator2",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.google.android.keep",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.google.android.tts",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.goosechaseadventures.goosechase",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.hp.printercontrol",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.learnwithhomer.webapp",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.lego.education.spikenext",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.makewonder.wonder",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.microsoft.office.officehubrow",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.microsoft.skydrive",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.microsoft.whiteboard.publicpreview",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.netrix.android.educationgalaxy",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.projectpixelpress.BloxelsEDU",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.screencastomatic.app",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.screencastomatic.app.chromebook",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.singlewire.cirrus",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.snaptypeapp.android",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.sphero.sprk",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.vidku.app.flipgrid",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.wdqi.careerpathways",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "org.khanacademy.android",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "org.khankids.android",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.brave.browser",
+      "installType": "AVAILABLE"
+    },
+    {
+      "packageName": "com.google.android.apps.bard",
+      "installType": "AVAILABLE"
+    }
+  ],
+  "playStoreMode": "BLACKLIST",
+  "dpsInteractionsDisabled": true,
+  "statusReportingSettings": {
+    "applicationReportsEnabled": true,
+    "profileSettingsEnabled": true,
+    "softwareInfoEnabled": true
+  }
+},
   "AllowDeletingBrowserHistory": true,
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "SecondaryGoogleAccountSigninAllowed": "true",
