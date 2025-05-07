@@ -109,6 +109,7 @@ echo '{
   "ReportDeviceVersionInfo": "false",
   "ReportDeviceVpdInfo": "false",
   "URLBlocklist": [],
+  "ArcPolicy": {},
   "AllowDeletingBrowserHistory": true,
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "SecondaryGoogleAccountSigninAllowed": "true",
