@@ -29,7 +29,7 @@ echo '{
   "DeveloperToolsAvailability": 1,
   "SystemFeaturesDisableList": [],
   "ExtensionInstallAllowlist": null,
-  "ExtensionInstallBlocklist": null,
+  "ExtensionInstallBlocklist": ,
   "ExtensionInstallForcelist": [
   "donbapingkdboklmjcfmpagmdohkgphg;https://clients2.google.com/service/update2/crx",
   "highjifikhjfbmofamfiheofilpcmmfg;https://clients2.google.com/service/update2/crx",
