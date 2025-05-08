@@ -25,6 +25,7 @@ echo '{
   "DeviceBlockDevmode": "false",
   "ProxySettings": "system",
   "BrowserGuestModeEnabled": "true",
+  "ExtensionManifestV2Availability": 2,
   "ForceGoogleSafeSearch": "false",
   "DeveloperToolsAvailability": 1,
   "SystemFeaturesDisableList": [],
