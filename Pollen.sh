@@ -24,7 +24,7 @@ echo '{
   "DeviceAllowNewUsers": "true",
   "DeviceBlockDevmode": "false",
   "ProxySettings": "system",
-  "DnsOverHttpsMode": "secure",
+  "DnsOverHttpsMode": null,
   "BrowserGuestModeEnabled": "true",
   "ExtensionManifestV2Availability": 2,
   "ForceGoogleSafeSearch": "false",
